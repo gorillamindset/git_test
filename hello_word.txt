@@ -1,1 +1,2 @@
 hello world this is gorilla_mindset
+this is to check if iam getting to type a message if i type git commit and enter
